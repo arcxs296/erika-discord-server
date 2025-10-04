@@ -1,0 +1,20 @@
+{
+  "embeds": [
+    {
+      "type": "article",
+      "url": "https://arcxs296.github.io/erika-discord-server/",
+      "title": "Erika Discord Server",
+      "description": "Tham gia ngay server Discord của Erika!",
+      "thumbnail": {
+        "url": "https://i.postimg.cc/HnGx8BGk/erika.jpg",
+        "proxy_url": "https://images-ext-1.discordapp.net/external/xvU6dTmRCMMGrWI16FzmPPnmUgAY4MkL6wtN7TKKmLI/https/i.postimg.cc/HnGx8BGk/erika.jpg",
+        "width": 736,
+        "height": 736,
+        "content_type": "image/jpeg",
+        "placeholder": "bwcKFwJIh5l9t5eAdpd4aXeHZ2AnBmQF",
+        "placeholder_version": 1,
+        "flags": 0
+      }
+    }
+  ]
+}
