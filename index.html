@@ -4,12 +4,14 @@
   <meta charset="utf-8">
   <title>Discord Widget</title>
   <style>
-    body {
+    html, body {
       margin: 0;
-      height: 100vh;
+      height: 100%;   /* bắt buộc để flexbox căn giữa theo chiều dọc */
+    }
+    body {
       display: flex;
-      justify-content: center; /* canh ngang giữa */
-      align-items: center;     /* canh dọc giữa */
+      justify-content: center; /* canh ngang */
+      align-items: center;     /* canh dọc */
       background: #0f1720;
     }
     iframe {
